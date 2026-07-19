@@ -1,0 +1,6 @@
+{
+  "name": "Voice-Based Concept Understanding Analyser",
+  "description": "An AI-powered full-stack application that transcribes spoken academic explanations, performs semantic similarity evaluation against reference concepts, analyzes elocution and pacing, and generates comprehensive printable PDF report cards.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
